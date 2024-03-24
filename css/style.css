@@ -842,6 +842,9 @@ i.bi.bi-geo-fill {
     padding-block-start: 40px;
 }
 
+.footer .row{
+  padding:30px 0 0 0;
+}
 
 button#myBtn {
     position: fixed;
